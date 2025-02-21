@@ -1,5 +1,0 @@
-```css
-.app{
-display:flex;
-}
-```

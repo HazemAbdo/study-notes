@@ -1,6 +1,6 @@
 # Frontend Roadmap
 - [ ] Internet
-	- [ ] internet
+	- [x] internet
 	- [ ] http
 	- [ ] domain
 	- [ ] hosting
